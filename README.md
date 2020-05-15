@@ -1,0 +1,2 @@
+# manyfists
+some test manifests
