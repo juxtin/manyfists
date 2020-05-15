@@ -8,7 +8,7 @@
     "harp": "0.30.0",
     "handlebars": "4.1.0",
     "tar": "3.0.0",
-    "js-yaml": "2.0.3",
+    "js-yaml": "3.13.1",
     "adm-zip": "0.4.9",
     "gulp-nodemon": "2.2.1",
     "mocha": "2.2.5"
